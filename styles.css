@@ -1,0 +1,16 @@
+table {
+	margin-top : 100px;
+	margin-left : 200px;
+	margin-right : 200px;
+	margin-bottom : 0px;
+}
+
+td {
+	  	  border-left-width : 50px;
+}
+
+button{
+	background-color : yellow;
+	font-size: 40px;
+	
+}
